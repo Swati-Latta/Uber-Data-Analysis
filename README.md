@@ -18,5 +18,5 @@ The primary objective of this exploratory data analysis (EDA) is to uncover patt
 
 | Files| Description |
 | -------------   | ------------- |
-| **Uber Data.csv**  | This CSV file contains the data set of Uber.  |
+| **UberDataset.csv**  | This CSV file contains the data set of Uber.  |
 | **Uber Data Analysis.ipynb** | This  ipynb file contains the EDA code. |
