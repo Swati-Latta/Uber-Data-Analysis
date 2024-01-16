@@ -24,7 +24,7 @@ The primary objective of this exploratory data analysis (EDA) is to uncover patt
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-1. Started with downloading the data from Kaggle website.
+    1. Started with downloading the data from Kaggle website.
     
     2. Load the data into Python Jyputer Notebook for further analysis. 
     
@@ -32,4 +32,4 @@ The primary objective of this exploratory data analysis (EDA) is to uncover patt
     
     4. Performed in depth analysis of the data using Matplotlib & Seaborn Libraries , Created different charts from the data for better understanding of the data.
     
-    <br>
+    
